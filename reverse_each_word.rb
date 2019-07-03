@@ -1,2 +1,2 @@
 reverse_each_word("Hello there, and how are you?")
-reverse_each_word.reverse_each
+reverse_each_word.reverse_each_word
